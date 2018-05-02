@@ -44,7 +44,7 @@ public class Tablica2 {
 			}
 			else
 			{
-				System.out.println("pierdol sie");
+				System.out.println("nie dziala");
 			}
 		}
 }
